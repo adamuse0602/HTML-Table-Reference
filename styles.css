@@ -1,0 +1,33 @@
+body{
+    background-color: lightgray;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h2{
+    color: purple;
+}
+
+table{
+    margin: 0 auto;
+    font-family: sans-serif;
+    border: 2px solid purple;
+    width: 700px;
+}
+
+.column-header{
+    background-color: pink;
+}
+
+.code{
+    font-family: monospace;
+    background-color: white;
+}
+
+th, td{
+    border-top: 1px solid purple;
+    text-align: left;
+}
